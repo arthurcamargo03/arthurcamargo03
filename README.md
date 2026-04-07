@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 * 🎓 **Education:** Software Engineering student at PUCPR (Curitiba).
-* ☕ **Currently Learning:** Java & SQL (Nélio Alves Course) focusing on Backend Development.
+* ☕ **Currently Learning:** Java & SQL focusing on Backend Development.
 * ✅ **Completed:** Python for Everybody Specialization (Coursera).
 * 🏗️ **Project:** Developing a "Digital Info Desk" (Balcão Digital) for my university.
 

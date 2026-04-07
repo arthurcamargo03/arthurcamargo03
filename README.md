@@ -1,27 +1,27 @@
 # Hi, I'm Arthur Camargo 🎓
 
-### Software Engineering Student 🚀
-**Looking for my first opportunity in the tech world** 🇧🇷
+### Software Engineering Student at PUCPR 
+**Building my foundation in Software Development** 🇧🇷
 
 ---
 
-### 🛠️ What I'm currently studying:
+### 🛠️ Tech Stack & Learning Path:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-* 🔭 Currently focused on Programming Logic and Algorithms with Python.
-* 📚 Pursuing a Bachelor's degree in Software Engineering (Focusing on fundamentals and best practices).
-* 🌱 Learning how to use Git and GitHub to organize my projects and collaborate.
+* 🎓 **Education:** Software Engineering student at PUCPR (Curitiba).
+* ☕ **Currently Learning:** Java & SQL (Nélio Alves Course) focusing on Backend Development.
+* ✅ **Completed:** Python for Everybody Specialization (Coursera).
+* 🏗️ **Project:** Developing a "Digital Info Desk" (Balcão Digital) for my university.
 
 ---
 
 ### 📊 My GitHub Stats:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurcamargo03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcamargo03&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurcamargo03&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurcamargo03&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
 ---
 
 ### 📫 Let's connect:

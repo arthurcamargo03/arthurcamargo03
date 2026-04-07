@@ -12,7 +12,6 @@
 * 🎓 **Education:** Software Engineering student at PUCPR (Curitiba).
 * ☕ **Currently Learning:** Java & SQL focusing on Backend Development.
 * ✅ **Completed:** Python for Everybody Specialization (Coursera).
-* 🏗️ **Project:** Developing a "Digital Info Desk" (Balcão Digital) for my university.
 
 ---
 
